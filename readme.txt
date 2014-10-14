@@ -12,7 +12,7 @@ WP Subscribe is a simple but powerful subscription plugin which supports MailChi
 
 == Description ==
 
-f you aren’t building an email list, you’re missing out on the most powerful and consistent way to drive repeat visitors and customers to your website or blog. With an email list, you become less and less dependent on external sources of traffic, and gain more ability to interact with your blog’s audience.
+If you aren’t building an email list, you’re missing out on the most powerful and consistent way to drive repeat visitors and customers to your website or blog. With an email list, you become less and less dependent on external sources of traffic, and gain more ability to interact with your blog’s audience.
 
 We at <a href="http://mythemeshop.com/">MyThemeShop</a> understand your need, and have developed a unique, cleanly coded, premium subscription plugin. We are now distributing it for FREE to give back to the WordPress community. We have been given so much by the WordPress community, it's time to give back.
 
