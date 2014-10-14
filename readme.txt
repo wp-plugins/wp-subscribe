@@ -43,7 +43,7 @@ Support link: <a href="http://community.mythemeshop.com/forum/free/plugin-suppor
 
 MyThemeShop is a premium WordPress theme provider and we develop premium plugins in our free time and distribute them for free to give back to the community. Though we take a lot of care while developing anything, we might have missed something useful/important. Please help us make it better by submitting the bug/suggestions/feedback on GitHub.
 
-GitHub link: <a href="https://github.com/MyThemeShop/WP-Subscribe/“>https://github.com/MyThemeShop/WP-Subscribe/</a>
+GitHub link: <a href="https://github.com/MyThemeShop/WP-Subscribe/">https://github.com/MyThemeShop/WP-Subscribe/</a>
 
 = Feedback =
 If you like this plugin, then please leave us a good rating and review.<br> Consider following us on <a rel="author" href="https://plus.google.com/+Mythemeshop/">Google+</a>, <a href="https://twitter.com/MyThemeShopTeam">Twitter</a>, and <a href="https://www.facebook.com/MyThemeShop">Facebook</a> 
