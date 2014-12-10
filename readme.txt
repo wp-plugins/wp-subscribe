@@ -4,7 +4,7 @@ Creator's website link: http://mythemeshop.com/plugins/wp-subscribe/
 Tags: subscribe, subscription, subscription box, newsletter, subscribe widget, mailchimp, aweber, feedburner, 
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,6 +71,9 @@ Please disable all plugins and check if plugin is working properly. Then you can
 2. WP Subscribe Settings
 
 == Changelog ==
+
+= 1.0.2 =
+* Added double opt-in possibility for Mailchimp
 
 = 1.0.1 =
 * Fixed Title field saving issue in newly added widget
