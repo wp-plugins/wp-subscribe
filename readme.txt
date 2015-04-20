@@ -3,7 +3,7 @@ Contributors: mythemeshop
 Creator's website link: http://mythemeshop.com/plugins/wp-subscribe/
 Tags: subscribe, subscription, subscription box, newsletter, subscribe widget, mailchimp, aweber, feedburner, 
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
